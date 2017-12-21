@@ -9,5 +9,6 @@ namespace ConsoleApp1
     class Class5
     {
         //Console.WriteLine("test");1
+        //Console.WriteLine("test");2
     }
 }
